@@ -1,25 +1,25 @@
 NYC Apartment Search and Analysis
 
 
-Overview
+Overview: 
 This project utilizes NYC Open Data datasets and Zillow's historic monthly rent averages to assist in the search for a new apartment in New York City. The main criteria for selecting an ideal neighborhood include prioritizing a quiet environment and a significant presence of greenery. The project is implemented in a Jupyter notebook, combining data downloading, cleaning, storage, SQL queries, and visualizations.
 
 
-Project Structure
+Project Structure: 
 The project is organized as follows:
 
 Data Collection and Cleaning:
 Download relevant datasets from NYC Open Data and Zillow.
 Perform data cleaning and preprocessing to ensure data quality.
 
-Data Storage:
+Data Storage: 
 Store the cleaned data in a structured format for easy retrieval and analysis.
 
-SQL Queries:
+SQL Queries: 
 Define a set of SQL queries to extract meaningful insights from the stored data.
 Example queries may include filtering neighborhoods based on noise complaints or identifying areas with high green space ratios.
 
-Visualizations:
+Visualizations: 
 Create visualizations using Python libraries (e.g., Matplotlib, Seaborn) to better understand the relationships between variables.
 Visualize rent trends, noise complaints, and greenery levels across different neighborhoods.
 
@@ -28,7 +28,7 @@ Use the defined SQL queries and visualizations to analyze potential neighborhood
 Combine elements including rent averages, noise complaints, and greenery levels to identify suitable areas within budget constraints.
 
 
-Instructions:
+Instructions: 
 
 Use the Jupyter Notebook:
 pip install -r requirements.txt
