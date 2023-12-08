@@ -1,5 +1,9 @@
 NYC Apartment Search and Analysis
 
+Author:
+Group 18;
+Jingyi Liu jl6621,
+Zhuoyi Jiang zj2369
 
 Overview: 
 This project utilizes NYC Open Data datasets and Zillow's historic monthly rent averages to assist in the search for a new apartment in New York City. The main criteria for selecting an ideal neighborhood include prioritizing a quiet environment and a significant presence of greenery. The project is implemented in a Jupyter notebook, combining data downloading, cleaning, storage, SQL queries, and visualizations.
@@ -46,8 +50,3 @@ NYC’s zip codes;
 NYC Open Data;
 Zillow Data
 
-
-Author:
-Group 18;
-Jingyi Liu jl6621,
-Zhuoyi Jiang zj2369
