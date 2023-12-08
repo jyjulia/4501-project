@@ -6,7 +6,8 @@ This project utilizes NYC Open Data datasets and Zillow's historic monthly rent 
 
 
 Project Structure: 
-The project is organized as follows:
+
+The project is organized as follows
 
 Data Collection and Cleaning:
 Download relevant datasets from NYC Open Data and Zillow.
