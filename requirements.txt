@@ -1,21 +1,16 @@
-import json
-import pathlib
-import urllib.parse
-import geoalchemy2 as gdb
-import geopandas as gpd
-import matplotlib.pyplot as plt
-import pandas as pd
-import requests
-import sqlalchemy as db
-from sqlalchemy.orm import declarative_base
-from shapely.geometry import Point 
-from ipywidgets import interact, widgets,fixed
-from IPython.display import display
-from typing import Text
-import plotly.express as px
-from typing import Tuple
-import psycopg2
-from psycopg2 import sql
-from sqlalchemy import text
-from sqlalchemy import create_engine
-from geoalchemy2 import Geometry
+json
+pathlib
+urllib
+geoalchemy2
+geopandas
+matplotlib
+pandas
+requests
+sqlalchemy
+shapely
+ipywidgets
+IPython
+typing
+plotly
+typing
+psycopg2
