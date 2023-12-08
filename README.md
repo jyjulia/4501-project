@@ -42,12 +42,12 @@ Follow the comments and documentation within the notebook to understand how to i
 
 
 Dataset Sources:
-NYC’s zip codes
-NYC Open Data
-Zillow
+NYC’s zip codes;
+NYC Open Data;
+Zillow Data
 
 
 Author:
-Group 18
-Jingyi Liu jl6621
+Group 18;
+Jingyi Liu jl6621,
 Zhuoyi Jiang zj2369
